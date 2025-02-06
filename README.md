@@ -1,4 +1,4 @@
-Rock-Mine Prediction Using Logistic Regression
+#Rock-Mine Prediction Using Logistic Regression
 This project implements a machine learning model to predict whether an object is a rock or a mine based on certain features. We use Logistic Regression for classification.
 
 Table of Contents
